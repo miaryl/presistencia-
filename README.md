@@ -1,12 +1,17 @@
-# React + Vite
+# Clase de Presistencia de Datos con JSON server
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Página es muy sencilla
+<img width="488" height="382" alt="Screenshot 2025-08-31 214552" src="https://github.com/user-attachments/assets/b07b3462-e6b2-4ef8-907e-f92f11609cad" />
 
-Currently, two official plugins are available:
+## Cuando crea, sale alerta
+<img width="790" height="741" alt="Screenshot 2025-08-31 214530" src="https://github.com/user-attachments/assets/674edccb-82ef-486a-bf43-89d2be6c1aba" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## JSON server
+<img width="337" height="326" alt="Screenshot 2025-08-31 214634" src="https://github.com/user-attachments/assets/f6b993cd-a68a-490a-8fc3-e5f57a027d2f" />
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+npm install json-server
+```
+```
+npm install axios
+```
